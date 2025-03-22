@@ -1,1 +1,0 @@
-# vrci_eula
