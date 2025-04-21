@@ -9,84 +9,71 @@ export default function PrivacyPolicy() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">1. Introduction</h2>
             <p className="mb-4">
-                This Privacy Policy governs your use of VRCi ("the App"), a mobile application for iOS devices. The App is developed and provided by refiaa as an unofficial companion application for VRChat.
+                This Privacy Policy governs your use of VRCi ("the App"), developed and provided by refiaa as an
+                unofficial companion application for VRChat. By using the App, you consent to the data practices described below.
             </p>
 
+            <h2 className="text-2xl font-bold mt-8 mb-4">2. Information Collection</h2>
             <p className="mb-4">
-                <strong>IMPORTANT:</strong> VRCi is an independent application and is not affiliated with, endorsed by, or connected to VRChat Inc. in any way. "VRChat" is a trademark of VRChat Inc. All related logos, names, and properties are trademarks of VRChat Inc.
+                <strong>2.1 Data Received from VRChat:</strong> The App communicates only with VRChat’s official public API using
+                the credentials you provide. The App does not send your VRChat credentials to any other servers.
             </p>
-
-            <h2 className="text-2xl font-bold mt-8 mb-4">2. No Data Collection by Developer</h2>
             <p className="mb-4">
-                <strong>THE APP DOES NOT COMMUNICATE WITH ANY SERVERS OPERATED BY THE DEVELOPER.</strong> The App exclusively communicates with VRChat's public API endpoints to display information. The App does not collect, store, or transmit any personal information to the developer or any third parties other than VRChat itself.
-            </p>
-
-            <h2 className="text-2xl font-bold mt-8 mb-4">3. Information Stored on Your Device</h2>
-            <p className="mb-4">
-                The App may store the following information locally on your device:
+                <strong>2.2 Feedback Data Collected by Developer:</strong> When you submit feedback via the App, the following
+                information is collected and transmitted to the developer’s Firestore database hosted by Google Cloud:
             </p>
             <ul className="list-disc pl-6 mb-4">
-                <li><strong>VRChat Credentials:</strong> Your VRChat username and password are securely stored on your device using the iOS Keychain to enable login functionality. These credentials are never transmitted to any server except VRChat's official authentication servers.</li>
-                <li><strong>App Preferences:</strong> Settings and preferences you configure within the App.</li>
-                <li><strong>Cache Data:</strong> Temporary data from VRChat's API may be cached on your device to improve performance and reduce API calls.</li>
+                <li><strong>Feedback ID:</strong> A UUID generated on your device.</li>
+                <li><strong>Type:</strong> "Bug Report" or "Feature Request".</li>
+                <li><strong>Title & Description:</strong> Text fields provided by you.</li>
+                <li><strong>Device Info:</strong> Model, OS version, device name.</li>
+                <li><strong>App Version:</strong> Release and build numbers.</li>
+                <li><strong>Timestamp:</strong> Submission date/time (converted to server timestamp).</li>
             </ul>
+
+            <h2 className="text-2xl font-bold mt-8 mb-4">3. Use and Retention of Feedback Data</h2>
             <p className="mb-4">
-                This stored information remains exclusively on your device and can be deleted by uninstalling the App.
+                All feedback data is used solely to improve the App’s functionality, fix bugs, and develop new features.
+                Data is retained until you request deletion or discontinue use of the App. You may contact us to request
+                deletion of your feedback records at vrci_admin@proton.me.
             </p>
 
-            <h2 className="text-2xl font-bold mt-8 mb-4">4. VRChat Data Access</h2>
+            <h2 className="text-2xl font-bold mt-8 mb-4">4. Information Stored on Your Device</h2>
             <p className="mb-4">
-                The App accesses data from VRChat's servers through its official public API based on the credentials you provide. This includes, but is not limited to:
+                The App stores the following locally:
             </p>
             <ul className="list-disc pl-6 mb-4">
-                <li>Your VRChat profile information</li>
-                <li>Friends list and status</li>
-                <li>World information</li>
-                <li>Avatar information</li>
-                <li>Other VRChat related data available through the API</li>
+                <li><strong>VRChat Credentials:</strong> Stored securely in iOS Keychain; only transmitted to VRChat’s servers.</li>
+                <li><strong>App Preferences & Cache:</strong> Local settings and temporary API data.</li>
+                <li><strong>Submission Timestamp:</strong> Stored in UserDefaults for rate-limiting feedback submissions.</li>
             </ul>
+
+            <h2 className="text-2xl font-bold mt-8 mb-4">5. Third-Party Services & Analytics</h2>
             <p className="mb-4">
-                The App's access to this data is governed by VRChat's own Terms of Service and Privacy Policy. The App uses this data exclusively for display purposes within the App and does not process, store, or transmit this data elsewhere.
+                Feedback data is stored in Firestore (Google Cloud) under collections <code>bug_reports</code> and
+                <code>feature_requests</code>. The App also uses Apple’s analytics/crash reporting. No other
+                third-party trackers are employed.
             </p>
 
-            <h2 className="text-2xl font-bold mt-8 mb-4">5. Analytics and Crash Reporting</h2>
+            <h2 className="text-2xl font-bold mt-8 mb-4">6. Children's Privacy</h2>
             <p className="mb-4">
-                The App uses Apple's built-in analytics and crash reporting tools, which are subject to Apple's Privacy Policy. This information helps identify and fix technical issues with the App. You can disable analytics collection through your device settings.
+                The App does not knowingly collect personal data from children under 13. If you believe data was collected
+                in error, contact us to remove it.
             </p>
 
-            <h2 className="text-2xl font-bold mt-8 mb-4">6. Third-Party Services</h2>
+            <h2 className="text-2xl font-bold mt-8 mb-4">7. Your Rights</h2>
             <p className="mb-4">
-                The App does not incorporate third-party analytics, advertising, or tracking services. The only third-party service the App interacts with is VRChat's API.
-            </p>
-
-            <h2 className="text-2xl font-bold mt-8 mb-4">7. Children's Privacy</h2>
-            <p className="mb-4">
-                The App does not knowingly collect personal information from children under 13. If you believe we might have collected information from a child under 13, please contact us immediately.
+                You may request access, correction, or deletion of your feedback data by contacting vrci_admin@proton.me.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">8. Changes to This Privacy Policy</h2>
             <p className="mb-4">
-                We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the App and updating the "Last Updated" date.
+                We will notify you of material changes by updating this document and the "Last Updated" date.
             </p>
 
-            <h2 className="text-2xl font-bold mt-8 mb-4">9. Your Rights</h2>
+            <h2 className="text-2xl font-bold mt-8 mb-4">9. Contact Us</h2>
             <p className="mb-4">
-                Since we do not collect or store your personal information on our servers, most data protection rights are not applicable. However, you have the right to:
-            </p>
-            <ul className="list-disc pl-6 mb-4">
-                <li>Delete all App-related data by uninstalling the App from your device</li>
-                <li>Contact VRChat regarding any personal data they may hold about you</li>
-            </ul>
-
-            <h2 className="text-2xl font-bold mt-8 mb-4">10. Contact Us</h2>
-            <p className="mb-4">
-                If you have questions about this Privacy Policy, please contact us at:
-            </p>
-            <p className="mb-4">
-                Email: vrci_admin@proton.me
-            </p>
-            <p className="mb-4">
-                GitHub: <a href="https://github.com/refiaa" className="text-blue-600 hover:underline">https://github.com/refiaa</a>
+                For questions or to exercise your rights, email: vrci_admin@proton.me
             </p>
 
             <div className="mt-10 text-sm text-gray-500">
