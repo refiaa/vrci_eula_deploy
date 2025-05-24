@@ -10,7 +10,7 @@ export default function PrivacyPolicy() {
             <h2 className="text-2xl font-bold mt-8 mb-4">1. Introduction</h2>
             <p className="mb-4">
                 This Privacy Policy governs your use of VRCi ("the App"), developed and provided by refiaa as an
-                unofficial companion application for VRChat. By using the App, you consent to the data practices described below.
+                unofficial companion application for VRChat®. By using the App, you consent to the data practices described below.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">2. Information Collection</h2>

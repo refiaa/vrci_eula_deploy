@@ -14,7 +14,7 @@ export default function TermsOfService() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">2. Description of the App</h2>
             <p className="mb-4">
-                VRCi is an unofficial companion application for VRChat developed by refiaa.
+                VRCi is an unofficial companion application for VRChat® developed by refiaa.
                 The App communicates only with VRChat’s public API to display information and does not send data to developer‑operated servers, except feedback submissions as described below.
             </p>
 
