@@ -15,7 +15,7 @@ export default function PrivacyPolicy() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">2. Information Collection</h2>
             <p className="mb-4">
-                <strong>2.1 Data Received from VRChat:</strong> The App communicates only with VRChat’s official public API using
+                <strong>2.1 Data Received from VRChat:</strong> The App communicates only with VRChat’s public API using
                 the credentials you provide. The App does not send your VRChat credentials to any other servers.
             </p>
             <p className="mb-4">
