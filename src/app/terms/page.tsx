@@ -20,10 +20,16 @@ export default function TermsOfService() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">3. Relationship with VRChat</h2>
             <p className="mb-4">
-                Your use of VRChat via the App is subject to VRChat’s own Terms and Privacy Policy:
-                <a href="https://hello.vrchat.com/legal" className="text-blue-600 hover:underline">
+                Your use of VRChat® via the App is subject to VRChat Inc.’s own Terms of Service and Privacy Policy,
+                which can be found at:
+                <a href="https://hello.vrchat.com/legal" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                     https://hello.vrchat.com/legal
                 </a>.
+            </p>
+            <p className="mb-4">
+                VRCi is not endorsed by VRChat Inc. and does not reflect the views or opinions of VRChat Inc.
+                or anyone officially involved in producing or managing VRChat® properties.
+                VRChat® and all associated properties are trademarks or registered trademarks of VRChat Inc.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">4. User Account and Security</h2>
@@ -106,7 +112,7 @@ export default function TermsOfService() {
                 Email: vrci_admin@proton.me
             </p>
             <p className="mb-4">
-                GitHub: <a href="https://github.com/refiaa" className="text-blue-600 hover:underline">https://github.com/refiaa</a>
+                GitHub: <a href="https://github.com/refiaa" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">https://github.com/refiaa</a>
             </p>
 
             <div className="mt-10 text-sm text-gray-500">
