@@ -31,7 +31,7 @@ export default function PrivacyPolicy() {
                 <li><strong>Feedback ID:</strong> A UUID generated on your device.</li>
                 <li><strong>Type:</strong> "Bug Report" or "Feature Request".</li>
                 <li><strong>Title & Description:</strong> Text fields provided by you.</li>
-                <li><strong>Device Info:</strong> Device model, OS version, and device name.</li>
+                <li><strong>Device Info:</strong> Device model, OS version, and device model name.</li>
                 <li><strong>App Version:</strong> Release and build numbers of the VRCi App.</li>
                 <li><strong>Timestamp:</strong> Submission date/time (converted to server timestamp).</li>
             </ul>
