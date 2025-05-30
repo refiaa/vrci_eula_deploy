@@ -9,7 +9,7 @@ export default function PrivacyPolicy() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">1. Introduction</h2>
             <p className="mb-4">
-                This Privacy Policy governs your use of VRCi ("the App"), an <strong>unofficial</strong> companion application for VRChat®, developed and provided by refiaa. The App is designed to enhance your VRChat® experience by providing tools to manage your VRChat® friends and community interactions. By using the App, you consent to the data practices described below. This App is not affiliated with, endorsed by, or sponsored by VRChat Inc.
+                This Privacy Policy governs your use of VRCi ("the App"), an <strong>unofficial</strong> companion application for VRChat®, developed and provided by VRCi Team. The App is designed to enhance your VRChat® experience by providing tools to manage your VRChat® friends and community interactions. By using the App, you consent to the data practices described below. This App is not affiliated with, endorsed by, or sponsored by VRChat Inc.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">2. Information We Collect and How We Use It</h2>
@@ -20,7 +20,7 @@ export default function PrivacyPolicy() {
                 The App communicates with VRChat's publicly available API endpoints using the VRChat® credentials you provide directly to VRChat® for authentication. The App itself only facilitates this communication. Through this API, the App may access and display VRChat® data such as your friend list, their online status, current VRChat® world/instance information (virtual location within VRChat®), user profiles, avatars, and world details, as permitted by VRChat® and your VRChat® privacy settings.
             </p>
             <p className="mb-4">
-                <strong>Important:</strong> Your VRChat® credentials are securely stored in the iOS Keychain on your device and are transmitted <strong>only</strong> to VRChat's official authentication servers. The App developer (refiaa) does not have access to your VRChat® password and does not store your VRChat® credentials on any developer-operated servers. All VRChat® data accessed via the API remains subject to VRChat Inc.'s Terms of Service and Privacy Policy. The App acts as a client to view and interact with this data but does not alter its ownership or primary storage location (which is VRChat®).
+                <strong>Important:</strong> Your VRChat® credentials are securely stored in the iOS Keychain on your device and are transmitted <strong>only</strong> to VRChat's official authentication servers. The App developer (VRCi Team) does not have access to your VRChat® password and does not store your VRChat® credentials on any developer-operated servers. All VRChat® data accessed via the API remains subject to VRChat Inc.'s Terms of Service and Privacy Policy. The App acts as a client to view and interact with this data but does not alter its ownership or primary storage location (which is VRChat®).
             </p>
 
             <p className="mb-4">
@@ -100,7 +100,7 @@ export default function PrivacyPolicy() {
             </p>
 
             <div className="mt-10 text-sm text-gray-500">
-                <p>© {new Date().getFullYear()} refiaa (VRCi). All rights reserved.</p>
+                <p>© {new Date().getFullYear()} VRCi Team (VRCi). All rights reserved.</p>
                 <p className="mt-1">VRChat® is a registered trademark of VRChat Inc. This App is not affiliated with, endorsed, or sponsored by VRChat Inc.</p>
             </div>
         </div>

@@ -14,7 +14,7 @@ export default function TermsOfService() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">2. Description and Role of the App</h2>
             <p className="mb-4">
-                VRCi is an <strong>unofficial</strong> companion application for VRChat® developed by refiaa. It is designed to provide users with tools to enhance their VRChat® experience, such as managing friends and discovering content within the VRChat® platform.
+                VRCi is an <strong>unofficial</strong> companion application for VRChat® developed by VRCi Team. It is designed to provide users with tools to enhance their VRChat® experience, such as managing friends and discovering content within the VRChat® platform.
             </p>
             <p className="mb-4">
                 The App functions by communicating with VRChat’s publicly available API endpoints to access and display information from your VRChat® account and the VRChat® platform, as permitted by VRChat® and your VRChat® privacy settings. The App itself does not send your VRChat® data to developer‑operated servers, except for feedback submissions as described in our Privacy Policy.
@@ -40,7 +40,7 @@ export default function TermsOfService() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">4. User Account, Credentials, and Security</h2>
             <p className="mb-4">
-                To use most features of the App, you must supply your VRChat® account credentials (username and password) for authentication purposes. These credentials are securely stored in the iOS Keychain on your device and are transmitted <strong>only</strong> to VRChat’s official authentication servers. The developer of the App (refiaa) does not have access to your VRChat® password.
+                To use most features of the App, you must supply your VRChat® account credentials (username and password) for authentication purposes. These credentials are securely stored in the iOS Keychain on your device and are transmitted <strong>only</strong> to VRChat’s official authentication servers. The developer of the App (VRCi Team) does not have access to your VRChat® password.
             </p>
             <p className="mb-4">
                 You are solely responsible for all activities that occur under your VRChat® account when accessed through the App, and for maintaining the security of your device and your VRChat® account credentials. You agree to notify VRChat Inc. immediately of any unauthorized use of your VRChat® account. The developer of the App shall not be liable for any loss or damage arising from your failure to comply with these security obligations.
@@ -61,12 +61,12 @@ export default function TermsOfService() {
                 <li>Upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the App or VRChat's® services.</li>
             </ul>
             <p className="mb-4">
-                Violation of these usage terms may result in suspension or termination of your access to the App, at refiaa's sole discretion, in addition to any remedies VRChat Inc. may pursue.
+                Violation of these usage terms may result in suspension or termination of your access to the App, at VRCi Team's sole discretion, in addition to any remedies VRChat Inc. may pursue.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">6. Intellectual Property Rights</h2>
             <p className="mb-4">
-                The App and its original content (excluding VRChat® content and trademarks), features, and functionality are and will remain the exclusive property of refiaa and its licensors. The App is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of refiaa.
+                The App and its original content (excluding VRChat® content and trademarks), features, and functionality are and will remain the exclusive property of VRCi Team and its licensors. The App is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of VRCi Team.
             </p>
             <p className="mb-4">
                 Content accessed through the App from the VRChat® platform, including but not limited to avatars, worlds, and user-generated content, is the property of VRChat Inc. or its respective content creators and is subject to VRChat Inc.'s policies. The App does not grant you any rights to such VRChat® content.
@@ -75,10 +75,10 @@ export default function TermsOfService() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">7. Feedback Submission</h2>
             <p className="mb-4">
-                If you choose to submit feedback, suggestions, or ideas to refiaa (e.g., via email or the App’s feedback feature), you grant refiaa a perpetual, worldwide, royalty‑free, irrevocable, non-exclusive license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such feedback in any form, media, or technology, whether now known or hereafter developed, for any purpose, including to improve the App or related products, without any obligation to provide attribution or compensation to you.
+                If you choose to submit feedback, suggestions, or ideas to VRCi Team (e.g., via email or the App’s feedback feature), you grant VRCi Team a perpetual, worldwide, royalty‑free, irrevocable, non-exclusive license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such feedback in any form, media, or technology, whether now known or hereafter developed, for any purpose, including to improve the App or related products, without any obligation to provide attribution or compensation to you.
             </p>
             <p className="mb-4">
-                You represent and warrant that any feedback you provide is lawful, non‑defamatory, does not infringe any third‑party rights, and that you have the right to grant these permissions. refiaa reserves the right to remove or not act upon any feedback at its sole discretion.
+                You represent and warrant that any feedback you provide is lawful, non‑defamatory, does not infringe any third‑party rights, and that you have the right to grant these permissions. VRCi Team reserves the right to remove or not act upon any feedback at its sole discretion.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">8. Data Protection & Privacy</h2>
@@ -88,42 +88,42 @@ export default function TermsOfService() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">9. Disclaimer of Warranties</h2>
             <p className="mb-4">
-                THE APP IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. TO THE FULLEST EXTENT PERMISSIBLE BY APPLICABLE LAW, REFIAA DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY, AND NON‑INFRINGEMENT.
+                THE APP IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. TO THE FULLEST EXTENT PERMISSIBLE BY APPLICABLE LAW, VRCi Team DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY, AND NON‑INFRINGEMENT.
             </p>
             <p className="mb-4">
-                REFIAA DOES NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR‑FREE, SECURE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. REFIAA DOES NOT WARRANT THAT THE RESULTS OBTAINED FROM THE USE OF THE APP WILL BE ACCURATE, RELIABLE, OR COMPLETE.
+                VRCi Team DOES NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR‑FREE, SECURE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. VRCi Team DOES NOT WARRANT THAT THE RESULTS OBTAINED FROM THE USE OF THE APP WILL BE ACCURATE, RELIABLE, OR COMPLETE.
             </p>
             <p className="mb-4">
-                YOU ACKNOWLEDGE AND AGREE THAT THE APP'S FUNCTIONALITY IS DEPENDENT ON THE CONTINUED AVAILABILITY AND FUNCTIONALITY OF VRCHAT INC.'S PUBLIC API, WHICH MAY BE MODIFIED, RESTRICTED, OR DISCONTINUED BY VRCHAT INC. AT ANY TIME, WITH OR WITHOUT NOTICE, AT VRCHAT INC.'S SOLE DISCRETION. REFIAA SHALL HAVE NO LIABILITY WHATSOEVER FOR ANY SUCH MODIFICATION, RESTRICTION, OR DISCONTINUANCE OF THE VRCHAT® API, OR FOR ANY INTERRUPTIONS OR ERRORS IN THE APP CAUSED THEREBY.
+                YOU ACKNOWLEDGE AND AGREE THAT THE APP'S FUNCTIONALITY IS DEPENDENT ON THE CONTINUED AVAILABILITY AND FUNCTIONALITY OF VRCHAT INC.'S PUBLIC API, WHICH MAY BE MODIFIED, RESTRICTED, OR DISCONTINUED BY VRCHAT INC. AT ANY TIME, WITH OR WITHOUT NOTICE, AT VRCHAT INC.'S SOLE DISCRETION. VRCi Team SHALL HAVE NO LIABILITY WHATSOEVER FOR ANY SUCH MODIFICATION, RESTRICTION, OR DISCONTINUANCE OF THE VRCHAT® API, OR FOR ANY INTERRUPTIONS OR ERRORS IN THE APP CAUSED THEREBY.
             </p>
             <p className="mb-4">
-                NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM REFIAA OR THROUGH THE APP SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.
+                NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM VRCi Team OR THROUGH THE APP SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">10. Limitation of Liability</h2>
             <p className="mb-4">
-                TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL REFIAA, ITS AFFILIATES, AGENTS, DIRECTORS, EMPLOYEES, SUPPLIERS, OR LICENSORS BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO THE USE OF, OR INABILITY TO USE, THE APP.
+                TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL VRCi Team, ITS AFFILIATES, AGENTS, DIRECTORS, EMPLOYEES, SUPPLIERS, OR LICENSORS BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO THE USE OF, OR INABILITY TO USE, THE APP.
             </p>
             <p className="mb-4">
-                UNDER NO CIRCUMSTANCES WILL REFIAA BE RESPONSIBLE FOR ANY DAMAGE, LOSS, OR INJURY RESULTING FROM HACKING, TAMPERING, OR OTHER UNAUTHORIZED ACCESS OR USE OF THE APP OR YOUR ACCOUNT OR THE INFORMATION CONTAINED THEREIN.
+                UNDER NO CIRCUMSTANCES WILL VRCi Team BE RESPONSIBLE FOR ANY DAMAGE, LOSS, OR INJURY RESULTING FROM HACKING, TAMPERING, OR OTHER UNAUTHORIZED ACCESS OR USE OF THE APP OR YOUR ACCOUNT OR THE INFORMATION CONTAINED THEREIN.
             </p>
             <p className="mb-4">
-                TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, REFIAA’S AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE APP SHALL NOT EXCEED THE GREATER OF ONE HUNDRED U.S. DOLLARS (USD $100) OR THE AMOUNT YOU PAID REFIAA, IF ANY, IN THE PAST SIX MONTHS FOR THE APP.
+                TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, VRCi Team’S AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE APP SHALL NOT EXCEED THE GREATER OF ONE HUNDRED U.S. DOLLARS (USD $100) OR THE AMOUNT YOU PAID VRCi Team, IF ANY, IN THE PAST SIX MONTHS FOR THE APP.
             </p>
             <p className="mb-4">
                 NO CLAIM UNDER THESE TERMS MAY BE BROUGHT MORE THAN ONE (1) YEAR AFTER THE CAUSE OF ACTION ARISES.
             </p>
             <p className="mb-4">
-                THIS LIMITATION OF LIABILITY SECTION APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF REFIAA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION.
+                THIS LIMITATION OF LIABILITY SECTION APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF VRCi Team HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION.
             </p>
             <p className="mb-4">
-                SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO SOME OF THE ABOVE EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS, REFIAA'S LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+                SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO SOME OF THE ABOVE EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS, VRCi Team'S LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
             </p>
 
 
             <h2 className="text-2xl font-bold mt-8 mb-4">11. Indemnification</h2>
             <p className="mb-4">
-                You agree to defend, indemnify, and hold harmless refiaa and its licensee and licensors, and their employees, contractors, agents, officers, and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the App, by you or any person using your account and password; b) a breach of these Terms, or c) content you submit, post, transmit, or otherwise make available through the App.
+                You agree to defend, indemnify, and hold harmless VRCi Team and its licensee and licensors, and their employees, contractors, agents, officers, and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the App, by you or any person using your account and password; b) a breach of these Terms, or c) content you submit, post, transmit, or otherwise make available through the App.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">12. Force Majeure</h2>
@@ -136,13 +136,13 @@ export default function TermsOfService() {
                 <strong>Please read this section carefully as it affects your rights.</strong>
             </p>
             <p className="mb-4">
-                Most user concerns can be resolved quickly and to the user's satisfaction by contacting us at vrci_admin@proton.me. In the unlikely event that we are unable to resolve a complaint you may have (or if refiaa has not been able to resolve a dispute it has with you after attempting to do so informally), we each agree to resolve those disputes through binding arbitration or small claims court instead of in courts of general jurisdiction.
+                Most user concerns can be resolved quickly and to the user's satisfaction by contacting us at vrci_admin@proton.me. In the unlikely event that we are unable to resolve a complaint you may have (or if VRCi Team has not been able to resolve a dispute it has with you after attempting to do so informally), we each agree to resolve those disputes through binding arbitration or small claims court instead of in courts of general jurisdiction.
             </p>
             <p className="mb-4">
                 Any dispute, claim or controversy arising out of or relating to these Terms or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, shall be determined by arbitration in Santa Clara County, California before one arbitrator. The arbitration shall be administered by the American Arbitration Association ("AAA") pursuant to its Consumer Arbitration Rules. Judgment on the Award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
             </p>
             <p className="mb-4">
-                You agree that, by entering into these Terms, you and refiaa are each waiving the right to a trial by jury or to participate in a class action or representative proceeding.
+                You agree that, by entering into these Terms, you and VRCi Team are each waiving the right to a trial by jury or to participate in a class action or representative proceeding.
             </p>
             <p className="mb-4">
                 This arbitration provision shall survive termination of these Terms.
@@ -163,7 +163,7 @@ export default function TermsOfService() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">16. Changes to Terms</h2>
             <p className="mb-4">
-                refiaa reserves the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect, such as by posting a notice within the App or on our official communication channels (if any). What constitutes a material change will be determined at our sole discretion.
+                VRCi Team reserves the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect, such as by posting a notice within the App or on our official communication channels (if any). What constitutes a material change will be determined at our sole discretion.
             </p>
             <p className="mb-4">
                 By continuing to access or use our App after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, in whole or in part, please stop using the App.
@@ -177,11 +177,11 @@ export default function TermsOfService() {
                 Email: vrci_admin@proton.me
             </p>
             <p className="mb-4">
-                GitHub: <a href="https://github.com/refiaa" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">https://github.com/refiaa</a> (for feedback and community discussions, not for formal legal notices related to these Terms).
+                GitHub: <a href="https://github.com/VRCi Team" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">https://github.com/VRCi Team</a> (for feedback and community discussions, not for formal legal notices related to these Terms).
             </p>
 
             <div className="mt-10 text-sm text-gray-500">
-                <p>© {new Date().getFullYear()} refiaa (VRCi). All rights reserved.</p>
+                <p>© {new Date().getFullYear()} VRCi Team (VRCi). All rights reserved.</p>
                 <p className="mt-1">VRChat® is a registered trademark of VRChat Inc. VRCi is an independent, unofficial third-party application and is not affiliated with, endorsed, approved, or sponsored by VRChat Inc.</p>
             </div>
         </div>
