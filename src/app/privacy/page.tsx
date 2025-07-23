@@ -53,6 +53,7 @@ export default function PrivacyPolicy() {
             </p>
             <ul className="list-disc pl-6 mb-4">
                 <li><strong>VRChat® Credentials:</strong> As stated above, stored securely in the iOS Keychain and only transmitted directly to VRChat's® authentication servers.</li>
+                <li><strong>World Bookmarks:</strong> The App locally stores your bookmarked VRChat® worlds in JSON files within your device's Documents directory. This includes world IDs (e.g., wrld_xxx-xxx-xxx), world names, author names, thumbnail image URLs, release status (public/private/hidden), and bookmark timestamps. Bookmarks can be added manually through world details or via World ID/URL import functionality. You can manage these bookmarks through the app interface, including viewing, searching, sorting, and removing individual bookmarks. Bookmark data is limited to 300 entries and can be manually cleared through app settings. This data is stored for your convenience and remains on your device until manually removed or the app is uninstalled.</li>
                 <li><strong>Friendship Activity Logs:</strong> The App locally stores records of friendship-related activities (such as friend requests sent/received, friends added/removed) in JSON files within your device's Documents directory. These logs are organized by account and are used to track friendship changes over time for your reference. Each account's friendship data is stored separately and independently. These logs are automatically cleaned up after 6 months and can be manually cleared through the app settings.</li>
                 <li><strong>App Preferences & Cache:</strong> Local settings to customize your App experience and temporary cache of data fetched from VRChat's® API to improve performance and reduce API calls. This cache is managed by the App and can be cleared by reinstalling the App or through app settings (if available).</li>
                 <li><strong>Feedback Submission Timestamp:</strong> Stored in UserDefaults for the purpose of rate-limiting feedback submissions to prevent abuse.</li>
@@ -79,6 +80,17 @@ export default function PrivacyPolicy() {
                 <li><strong>Access:</strong> You can view your friendship logs through the app interface</li>
                 <li><strong>Deletion:</strong> You can delete individual log entries or clear all logs through the app settings</li>
                 <li><strong>Account Separation:</strong> Each VRChat® account's friendship data is stored separately and switching accounts does not affect other accounts' data</li>
+            </ul>
+            <p className="mb-4">
+                <strong>7.3 Bookmark Data:</strong> You have comprehensive rights regarding bookmark data stored locally on your device:
+            </p>
+            <ul className="list-disc pl-6 mb-4">
+                <li><strong>Access:</strong> You can view all your bookmarks through the app interface, including search and filter functionality</li>
+                <li><strong>Addition:</strong> You can add bookmarks manually through world detail pages or via World ID/URL import feature</li>
+                <li><strong>Modification:</strong> You can organize bookmarks using sorting options (by date added or alphabetical order)</li>
+                <li><strong>Deletion:</strong> You can remove individual bookmarks or clear all bookmarks through the app settings</li>
+                <li><strong>Export/Portability:</strong> Bookmark data is stored in standard JSON format on your device and can be accessed through file management if needed</li>
+                <li><strong>Data Control:</strong> All bookmark management can be performed locally without server involvement</li>
             </ul>
             <p className="mb-4">
                 These local data rights can be exercised directly through the app interface. For any technical issues with local data management, you may contact us at vrci_admin@proton.me.
