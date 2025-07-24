@@ -34,3 +34,22 @@ body {
 .prose li {
     margin-bottom: 0.5em;
 }
+
+nav a {
+    text-decoration: none !important;
+}
+
+nav a:hover {
+    text-decoration: none !important;
+}
+
+.prose a {
+    text-decoration: none;
+    color: #3b82f6;
+    font-weight: 500;
+}
+
+.prose a:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
+}
