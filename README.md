@@ -1,3 +1,6 @@
+
+# Terms of Service / Privacy Policy page for [VRCi](https://apps.apple.com/jp/app/vrci-for-vrchat/id6746643250)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
